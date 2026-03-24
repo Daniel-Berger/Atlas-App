@@ -4,7 +4,7 @@
 
 Atlas is an AI-powered geopolitical intelligence app that puts a real-time, interactive 3D globe in your pocket. Track global events as they unfold, assess country risk scores, monitor maritime chokepoints and aviation airspace, and get AI-synthesized intelligence briefs — all from a single, beautifully designed interface.
 
-A product of **[Pomona App Studio](mailto:daniel@pomonaappstudio.com)**.
+A product of **[Pomona App Studio](https://pomonaappstudio.com/)**.
 
 ---
 
@@ -69,7 +69,6 @@ A product of **[Pomona App Studio](mailto:daniel@pomonaappstudio.com)**.
 - Offline support with cached data and connectivity banners
 - Haptic feedback throughout the interface
 - Skeleton loading screens and shimmer effects
-
 
 ## Contact
 **Pomona App Studio**
